@@ -14,6 +14,13 @@
 ![Pages](https://img.shields.io/badge/GitHub%20Pages-live-2E9E6B?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Aayloo/Agent?style=flat-square&color=8A6410)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![No build](https://img.shields.io/badge/build-none-6E7681?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-1E5945?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/Aayloo/Agent?style=flat-square&color=2B3A67)
+
 </div>
 
 ---
@@ -96,6 +103,7 @@ git add -A && git commit -m "update" && git push
 Agent/
 ├── index.html              # 报告本体（单文件）
 ├── README.md
+├── LICENSE                 # MIT
 └── docs/
     ├── preview-hero.png
     ├── preview-stage.png
@@ -107,3 +115,7 @@ Agent/
 - 区分「已经发生的工程事实」与「前瞻性判断」，判断类内容会明确标注
 - 不使用市场规模、增长率等无法核实的数据；文中出现的数字用于说明结构（如五级阶梯、六层构成、九个场景）
 - 全文零表格，属于叙事型阅读材料；需要速查的内容集中在附录术语表
+
+## 📜 许可证
+
+MIT © 2026 Aayloo —— 可自由使用、修改、分发，保留版权声明即可。
