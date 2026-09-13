@@ -90,9 +90,6 @@
 # 本地打开
 双击 index.html
 
-# 在线看
-https://aayloo.github.io/Agent/
-
 # 更新（推送到 main 后 Pages 自动更新）
 git add -A && git commit -m "update" && git push
 ```
@@ -118,4 +115,4 @@ Agent/
 
 ## 📜 许可证
 
-MIT © 2026 Aayloo —— 可自由使用、修改、分发，保留版权声明即可。
+MIT © 2026 —— 可自由使用、修改、分发，保留版权声明即可。
